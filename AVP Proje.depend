@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670705086 source:c:\users\kadir\desktop\avp proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
